@@ -1,0 +1,7 @@
+.all{
+    -fx-background-color: #10a37f;
+}
+.button{
+    -fx-background-color: white;
+    -fx-border-radius: 0%;
+}

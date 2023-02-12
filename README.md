@@ -1,2 +1,2 @@
 # OpenAI-ChatGPT-API4Java
- A Java implementation of OpenAIChatGPT.
+ ### A Java implementation of OpenAIChatGPT.
